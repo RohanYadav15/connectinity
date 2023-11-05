@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">200453054526-g223h4av7n5o5pivd7er1q2kc3abmcqv.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">200453054526</string>
+    <string name="google_api_key" translatable="false">AIzaSyDIW2a6FLot1YiQrc2EPNIUnkySFc_DusM</string>
+    <string name="google_app_id" translatable="false">1:200453054526:android:76df35836a12fa14e5716f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDIW2a6FLot1YiQrc2EPNIUnkySFc_DusM</string>
+    <string name="google_storage_bucket" translatable="false">connectinity.appspot.com</string>
+    <string name="project_id" translatable="false">connectinity</string>
+</resources>
