@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "200453054526",
+    "project_id": "connectinity",
+    "storage_bucket": "connectinity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200453054526:android:76df35836a12fa14e5716f",
+        "android_client_info": {
+          "package_name": "com.example.connectnity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200453054526-7v7ielahatldc4lmo01ul1iohajfk9up.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.connectnity",
+            "certificate_hash": "c4f0c638190c06aaa3beca36187bcade3028ebab"
+          }
+        },
+        {
+          "client_id": "200453054526-g223h4av7n5o5pivd7er1q2kc3abmcqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIW2a6FLot1YiQrc2EPNIUnkySFc_DusM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200453054526-g223h4av7n5o5pivd7er1q2kc3abmcqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
